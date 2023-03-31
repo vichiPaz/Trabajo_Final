@@ -15,14 +15,21 @@ body {
     background-color: rgb(240, 180, 103);
 }
 
+.boton_cartas{
+    background-color: rgb(240, 180, 103);
+    width: 105px;
+    height: 38px;
+    border-radius: 4px;
+}
+
 #boton_contacto{
 background-color: rgb(240, 180, 103);
 }
 
 footer {
     background-color: rgb(240, 180, 103);
-    height: 40px;
+    height: 30px;
     text-align: center;
-    
+    color: white;
 }
 
