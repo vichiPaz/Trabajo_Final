@@ -1,0 +1,11 @@
+.navbar-brand img {
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+
+#seccion_hero {
+        background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
+        height: 400px;
+      
+}
