@@ -4,8 +4,10 @@
   }
 
 
+
+  
 #seccion_hero {
-        background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
-        height: 400px;
-      
+        background-image: url("../img/Collage_borroso.jpg");
+        height: 40rem;
+        background-position-y: 10%;
 }
